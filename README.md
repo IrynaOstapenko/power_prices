@@ -1,2 +1,1 @@
-Run npm install before start coding.
-Run npm run dev to diplay application on browser.
+Project is created in Vue.js. It uses Chartkick libray and an API that provides electricity hourly prices in Norway.  
